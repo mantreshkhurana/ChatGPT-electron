@@ -7,8 +7,8 @@ This is a desktop app for [ChatGPT](https://chat.openai.com/), a chatbot that us
 ## Installation
 
 ```bash
-git clone https://github.com/mantreshkhurana/Chatgpt-electron.git
-cd Chatgpt-electron
+git clone https://github.com/mantreshkhurana/ChatGPT-electron.git
+cd ChatGPT-electron
 npm install
 ```
 
