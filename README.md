@@ -6,6 +6,10 @@ This is a desktop app for [ChatGPT](https://chat.openai.com/), a chatbot that us
 
 ![Screenshot](./screenshots/screenshot-1.png)
 
+## Releases
+
+- [Latest Release](https://github.com/mantreshkhurana/ChatGPT-electron/releases)
+
 ## Installation
 
 ```bash
