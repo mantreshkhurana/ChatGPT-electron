@@ -1,5 +1,7 @@
 # ChatGPT Desktop App
 
+[![GitHub stars](https://img.shields.io/github/stars/mantreshkhurana/Chatgpt-electron.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mantreshkhurana/ChatGPT-electron)
+
 This is a desktop app for [ChatGPT](https://chat.openai.com/), a chatbot that uses GPT-3 to have conversations with you.
 
 ![Screenshot](./screenshots/screenshot-1.png)
