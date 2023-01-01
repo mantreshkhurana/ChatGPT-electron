@@ -4,7 +4,7 @@
 
 This is a desktop app for [ChatGPT](https://chat.openai.com/), a chatbot that uses GPT-3 to have conversations with you.
 
-![Screenshot](./screenshots/screenshot-1.png)
+![Screenshot](https://raw.githubusercontent.com/mantreshkhurana/ChatGPT-electron/stable/screenshots/screenshot-1.png)
 
 ## Releases
 
