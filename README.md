@@ -48,4 +48,4 @@ npm run package-mac
 
 ## Credits
 
-- [ChatGPT](https://chat.openai.com/)
+- [OpenAI](https://openai.com/)
