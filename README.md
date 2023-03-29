@@ -8,9 +8,9 @@ This is a desktop app for [ChatGPT](https://chat.openai.com/), a chatbot that us
 
 ## Downloads
 
-- [Windows](https://github.com/mantreshkhurana/ChatGPT-electron/releases/download/1.0.0/ChatGPT-v1.0.0-windows.zip)
-- [macOS](https://github.com/mantreshkhurana/ChatGPT-electron/releases/download/1.0.0/ChatGPT-v1.0.0-darwin.zip)
-- [Linux](https://github.com/mantreshkhurana/ChatGPT-electron/releases/download/1.0.0/ChatGPT-v1.0.0-linux.tar.xz)
+- [Windows (90 MB)](https://github.com/mantreshkhurana/ChatGPT-electron/releases/download/1.0.0/ChatGPT-v1.0.0-windows.zip)
+- [macOS (84 MB)](https://github.com/mantreshkhurana/ChatGPT-electron/releases/download/1.0.0/ChatGPT-v1.0.0-darwin.zip)
+- [Linux (66 MB)](https://github.com/mantreshkhurana/ChatGPT-electron/releases/download/1.0.0/ChatGPT-v1.0.0-linux.tar.xz)
 
 ## Releases
 
