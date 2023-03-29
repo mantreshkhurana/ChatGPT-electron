@@ -6,6 +6,12 @@ This is a desktop app for [ChatGPT](https://chat.openai.com/), a chatbot that us
 
 ![Screenshot](https://raw.githubusercontent.com/mantreshkhurana/ChatGPT-electron/stable/screenshots/screenshot-1.png)
 
+## Downloads
+
+- [Windows](https://github.com/mantreshkhurana/ChatGPT-electron/releases/download/1.0.0/ChatGPT-v1.0.0-windows.zip)
+- [macOS](https://github.com/mantreshkhurana/ChatGPT-electron/releases/download/1.0.0/ChatGPT-v1.0.0-darwin.zip)
+- [Linux](https://github.com/mantreshkhurana/ChatGPT-electron/releases/download/1.0.0/ChatGPT-v1.0.0-linux.tar.xz)
+
 ## Releases
 
 - [Latest Release](https://github.com/mantreshkhurana/ChatGPT-electron/releases)
