@@ -57,3 +57,7 @@ npm run package-mac
 ## Credits
 
 - [OpenAI](https://openai.com/)
+
+## Author
+
+- [Mantresh Khurana](https://github.com/mantreshkhurana)
