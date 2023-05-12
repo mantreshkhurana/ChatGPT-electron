@@ -1,3 +1,5 @@
+<img src="./assets/icons/png/favicon.png" width="50" height="50">
+
 # ChatGPT Desktop App
 
 [![GitHub stars](https://img.shields.io/github/stars/mantreshkhurana/Chatgpt-electron.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mantreshkhurana/ChatGPT-electron)
