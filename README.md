@@ -42,7 +42,7 @@ sudo dnf install -y   gstreamer1 gstreamer1-plugins-base   mesa-libEGL mesa-libg
 
 1) Clone the repository:
 ```bash
-git clone https://github.com/<YOUR-FORK>/ChatGPT-electron.git
+git clone https://github.com/mantreshkhurana/ChatGPT-electron.git
 cd ChatGPT-electron
 ```
 
@@ -125,7 +125,7 @@ Version:        1.0
 Release:        1%{?dist}
 Summary:        ChatGPT Desktop (Electron, bundled offline)
 License:        MIT
-URL:            https://github.com/<YOUR-FORK>/ChatGPT-electron
+URL:            https://github.com/mantreshkhurana/ChatGPT-electron
 BuildArch:      x86_64
 Requires:       libX11, libXcomposite, libXdamage, libXfixes, libXrandr, libXi, libXScrnSaver, at-spi2-core, mesa-libEGL, mesa-libgbm, gstreamer1, gstreamer1-plugins-base
 
